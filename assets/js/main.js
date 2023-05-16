@@ -1,5 +1,5 @@
 let gallery = document.getElementById("gallery")
 gallery.innerHTML =
-    '<figure style="display: inline-block"><img style="width: 5rem" src="https://images.unsplash.com/photo-1642486488748-c7d180189e7e?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1365&q=80 " alt="city"><figcaption>1</figcaption></figure>' +
-    '<figure style="display: inline-block"><img style="width: 5rem" src="https://images.unsplash.com/photo-1642486488748-c7d180189e7e?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1365&q=80 " alt="city"><figcaption>2</figcaption></figure>' +
-    '<figure style="display: inline-block"><img style="width: 5rem" src="https://images.unsplash.com/photo-1642486488748-c7d180189e7e?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1365&q=80 " alt="city"><figcaption>3</figcaption></figure>'
+    '<figure style="display: inline-block"><img style="width: 10rem" src="https://images.unsplash.com/photo-1642486488748-c7d180189e7e?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=13610&q=80 " alt="city"><figcaption>1</figcaption></figure>' +
+    '<figure style="display: inline-block"><img style="width: 10rem" src="https://images.unsplash.com/photo-1642486488748-c7d180189e7e?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=13610&q=80 " alt="city"><figcaption>2</figcaption></figure>' +
+    '<figure style="display: inline-block"><img style="width: 10rem" src="https://images.unsplash.com/photo-1642486488748-c7d180189e7e?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=13610&q=80 " alt="city"><figcaption>3</figcaption></figure>'
